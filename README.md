@@ -1,4 +1,6 @@
 # Kaggle competition: Santander Customer Transaction Prediction
+Project made with the purpose of studying the optimization of hyperparameters with Skopt
+
 [Check the competition here!](https://www.kaggle.com/c/santander-customer-transaction-prediction)
 
  **Description**
@@ -9,7 +11,7 @@ In this challenge, we invite Kagglers to help us identify which customers will m
 
  **Techniques Utilized:**
  - Undersampling (Near miss)
- - scikit-optimize (gp_minimize)
+ - Scikit-optimize (gp_minimize)
  - Variables selection (by f_classif)
 
  **Models:**
